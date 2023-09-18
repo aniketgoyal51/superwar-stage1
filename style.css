@@ -1,0 +1,17 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(5,120px);
+    grid-gap: 20px;
+    justify-content: center;
+}
+.spider{
+    /* display: flex;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    height: 200px; */
+    border: 1px solid lightgray;
+    text-align: center;
+}
+.score{
+    text-align: center;
+}
